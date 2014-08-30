@@ -1,0 +1,205 @@
+TGA_sample
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/GA_sample.app/ResourceRules.plist
+cProcessPCH /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/main.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531F21560000000000000096
+t1394549078
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531F2156000000000000036B
+t1394549078
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F2157000000000000019E
+t1394549079
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F21950000000000000ADC
+t1394549141
+s2780
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/AppDelegate.o
+t2
+s0
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/ViewController.o
+t2
+s0
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/main.o
+t2
+s0
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch.pch
+t1409365625
+s117048
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app/ResourceRules.plist
+t2
+s0
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m
+c00000000540136780000000000000993
+t1409365624
+s2451
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA_sample-Prefix.pch
+c00000000540135910000000000000158
+t1409365393
+s344
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m
+c000000005401359100000000000001EF
+t1409365393
+s495
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m
+c00000000540135910000000000000153
+t1409365393
+s339
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb743e7f86db1b941^c40a03f96db1b941^---0#1#1#--18"Check dependencies36"97FA87E0-825A-429A-B78C-6165F37CEB32-
+
+CCodeSign /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app
+r0
+
+CCompileAssetCatalog /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431058425.286168
+e431058425.381966
+r0
+xCompileC
+xBuild/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/AppDelegate.o
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.h
+o/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:18:6: error: use of undeclared identifier 'GAI'
+o    [GAI sharedInstance].trackUncaughtExceptions = YES;
+o     ^
+o/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:20:6: error: use of undeclared identifier 'GAI'
+o    [GAI sharedInstance].dispatchInterval = 20;
+o     ^
+o/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:22:6: error: use of undeclared identifier 'GAI'
+o    [GAI sharedInstance].debug = YES;
+o     ^
+o/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:24:8: error: cannot find protocol declaration for 'GAITracker'
+o    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-YOUR-TRACKING-ID"];
+o       ^
+o/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:24:32: error: use of undeclared identifier 'GAI'
+o    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-YOUR-TRACKING-ID"];
+o                               ^
+o5 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m203"CompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/AppDelegate.o GA_sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb85c49f96db1b941^f4c261f96db1b941^-1052"/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:18:6: error: use of undeclared identifier 'GAI'    [GAI sharedInstance].trackUncaughtExceptions = YES;     ^/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:20:6: error: use of undeclared identifier 'GAI'    [GAI sharedInstance].dispatchInterval = 20;     ^/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:22:6: error: use of undeclared identifier 'GAI'    [GAI sharedInstance].debug = YES;     ^/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:24:8: error: cannot find protocol declaration for 'GAITracker'    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-YOUR-TRACKING-ID"];       ^/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:24:32: error: use of undeclared identifier 'GAI'    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-YOUR-TRACKING-ID"];                               ^5 errors g5(36%IDEClangDiagnosticActivityLogMessage2@34"Use of undeclared identifier 'GAI'-431058425#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/AppDelegate.m0000000000000000^17#5#17#5#391#0#14"Semantic Issue--2@34"Use of undeclared identifier 'GAI'-431058425#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/AppDelegate.m0000000000000000^19#5#19#5#523#0#14"Semantic Issue--2@34"Use of undeclared identifier 'GAI'-431058425#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/AppDelegate.m0000000000000000^21#5#21#5#638#0#14"Semantic Issue--2@49"Cannot find protocol declaration for 'GAITracker'-431058425#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/AppDelegate.m0000000000000000^23#7#23#7#710#0#14"Semantic Issue--2@34"Use of undeclared identifier 'GAI'-431058425#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/AppDelegate.m0000000000000000^23#31#23#31#734#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@89"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/AppDelegate.m0000000000000000^3705"CompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/AppDelegate.o GA_sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/AppDelegate.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/AppDelegate.dia -c /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects36"4CFD5675-CB1C-4363-B3DC-4C69A89E4505-
+bE7926ECE-C98A-44CC-A377-679A7FEA120A
+
+CCompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431058425.285881
+e431058425.483168
+r1
+xCompileC
+xBuild/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/ViewController.o
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m209"CompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/ViewController.o GA_sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler634549f96db1b941^25b27bf96db1b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/ViewController.m0000000000000000^3723"CompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/ViewController.o GA_sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/ViewController.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/ViewController.dia -c /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-no36"801F687B-DFE3-4C2F-AE7F-DF0DC3D5C4BA-
+bE7926ECE-C98A-44CC-A377-679A7FEA120A
+
+CCompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/main.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431058425.286567
+e431058425.483203
+r1
+xCompileC
+xBuild/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/main.o
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m189"CompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/main.o GA_sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilere97f49f96db1b941^feba7bf96db1b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/main.m0000000000000000^3663"CompileC Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/main.o GA_sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/Objects-normal/arm64/main.dia -c /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/36"C055A22D-5623-40B4-9F84-7B4793080546-
+bE7926ECE-C98A-44CC-A377-679A7FEA120A
+
+CCompileStoryboard /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app/en.lproj/InfoPlist.strings GA_sample/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/GA_sample.app/ResourceRules.plist
+s431058424.984674
+e431058424.986820
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/GA_sample.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphoneos/GA_sample.app/ResourceRules.plist196"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/GA_sample.app/ResourceRules.plist0729fcf86db1b941^577c03f96db1b941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app/ResourceRules.plist0034b0f7deffdf42^776"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/GA_sample.app/ResourceRules.plist    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app36"1CD9DB24-D2C3-4CC1-8F50-713FF7DFCDFB-
+bE7926ECE-C98A-44CC-A377-679A7FEA120A
+
+CGenerateDSYMFile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app.dSYM /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app/GA_sample
+r0
+
+CLd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app/GA_sample normal arm64
+r0
+
+CProcessInfoPlistFile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app/Info.plist /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA_sample-Info.plist
+r0
+
+CProcessPCH /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431058424.987882
+e431058425.285214
+r1
+xProcessPCH
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch.pch
+xGA_sample/GA_sample-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA_sample-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile GA_sample/GA_sample-Prefix.pch220"ProcessPCH Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf949fdf86db1b941^b80349f96db1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/GA_sample-Prefix.pch0000000000000000^3590"ProcessPCH Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch.dia -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr/GA_sample-Prefix.pch.d -c /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA_sample-Prefix.pch -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-ecrkzaikbrmhumdpxznhfaxrkikr36"80B07143-55BC-4D03-95C9-6D0CCE1A16A4-
+bE7926ECE-C98A-44CC-A377-679A7FEA120A
+
+CProcessPCH /Users/KentarOu/Library/Developer/Xcode/DerivedData/GA_sample-dfhedbtigtnazvatmojmgfzicoyl/Index/PrecompiledHeaders/GA_sample-Prefix-hfzeshogdueqvmapsmckabbsfygi_ast/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphoneos/GA_sample.build/GA_sample.xcent
+r0
+
+CProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/4c3c1fd2-d075-428f-86ee-c00eaea7b386.mobileprovision /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app/embedded.mobileprovision
+r0
+
+CTouch /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphoneos/GA_sample.app
+r0
+

@@ -1,0 +1,318 @@
+TGA_sample
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app/GA_sample normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053497CDC0000000000000198
+t1397325020
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F216C00000000000003B4
+t1394549100
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F2173000000000000019E
+t1394549107
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000531F217600000000006CED60
+t1394549110
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053497CA70000000000446820
+t1397324967
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F2177000000000088D8C0
+t1394549111
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000531F217A00000000001081C0
+t1394549114
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F217D0000000001F1DE10
+t1394549117
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F21950000000000000ADC
+t1394549141
+s2780
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.o
+t1409367552
+s63664
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/GA_sample.LinkFileList
+c0000000054013DFE00000000000001DF
+t1409367550
+s479
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.o
+t1409367552
+s40544
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.o
+t1409367552
+s3580
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch.pch
+t1409367552
+s129876
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app/GA_sample
+t2
+s0
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m
+c0000000054013D69000000000000099E
+t1409367401
+s2462
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA_sample-Prefix.pch
+c00000000540138F1000000000000016D
+t1409366257
+s365
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m
+c0000000054013D69000000000000029E
+t1409367401
+s670
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/libAdIdAccess.a
+c0000000053D861BA00000000000094B4
+t1406689722
+s38068
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/libGoogleAnalyticsServices.a
+c0000000053D861BA0000000000AE163C
+t1406689722
+s11408956
+
+N/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m
+c00000000540135910000000000000153
+t1409365393
+s339
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0d6e477e75b1b941^9ab3727e75b1b941^---0#1#1#--18"Check dependencies36"471027CD-9219-440F-BB84-F32F861CD9B9-
+
+CCompileAssetCatalog /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431060352.574095
+e431060352.679200
+r1
+xCompileC
+xBuild/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.o
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.h
+o/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:24:20: warning: unused variable 'tracker' [-Wunused-variable]
+o    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-54314837-1"];
+o                   ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m208"CompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.o GA_sample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c16938075b1b941^eae7ad8075b1b941^-273"/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m:24:20: warning: unused variable 'tracker' [-Wunused-variable]    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-54314837-1"];                   ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Unused variable 'tracker'-431060352#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/AppDelegate.m0000000000000000^23#19#23#19#739#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@89"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/AppDelegate.m0000000000000000^3878"CompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.o GA_sample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/DerivedSources/i386 -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator -include /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.dia -c /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.m -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Object36"A40995BA-C9B1-4C51-A199-12E9044BBCB7-
+b3A747179-832F-4ECA-AD36-AFBD6F18A61C
+
+CCompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431060352.573891
+e431060352.665842
+r1
+xCompileC
+xBuild/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.o
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.h
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAIFields.h
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAIDictionaryBuilder.h
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAIEcommerceProduct.h
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAIEcommerceProductAction.h
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAIEcommercePromotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m214"CompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.o GA_sample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb402938075b1b941^f374aa8075b1b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/ViewController.m0000000000000000^3896"CompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.o GA_sample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/DerivedSources/i386 -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator -include /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.dia -c /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/ViewController.m -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-n36"F7E38CF7-0498-4A16-84F3-E93249DBE0DC-
+b3A747179-832F-4ECA-AD36-AFBD6F18A61C
+
+CCompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431060352.574485
+e431060352.660775
+r1
+xCompileC
+xBuild/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.o
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m194"CompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.o GA_sample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerad32938075b1b941^dc29a98075b1b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/main.m0000000000000000^3836"CompileC Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.o GA_sample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/DerivedSources/i386 -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator -include /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.dia -c /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/main.m -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build36"96945610-A87A-414A-BF39-9F524BF38255-
+b3A747179-832F-4ECA-AD36-AFBD6F18A61C
+
+CCompileStoryboard /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app/en.lproj/InfoPlist.strings GA_sample/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app.dSYM /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app/GA_sample
+r0
+
+CLd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app/GA_sample normal i386
+s431060352.681772
+e431060354.221708
+r0
+xLd
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app/GA_sample
+xnormal
+xi386
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/GA_sample.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/ViewController.o
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/AppDelegate.o
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/libAdIdAccess.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/libGoogleAnalyticsServices.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+oUndefined symbols for architecture i386:
+o  "_deflate", referenced from:
+o      +[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)
+o  "_deflateEnd", referenced from:
+o      +[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)
+o  "_deflateInit2_", referenced from:
+o      +[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)
+o  "_inflate", referenced from:
+o      +[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)
+o  "_inflateEnd", referenced from:
+o      +[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)
+o  "_inflateInit2_", referenced from:
+o      +[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app/GA_sample75"Ld Build/Products/Debug-iphonesimulator/GA_sample.app/GA_sample normal i386d49aae8075b1b941^fdc1388275b1b941^-1163"Undefined symbols for architecture i386:  "_deflate", referenced from:      +[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)  "_deflateEnd", referenced from:      +[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)  "_deflateInit2_", referenced from:      +[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)  "_inflate", referenced from:      +[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)  "_inflateEnd", referenced from:      +[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)  "_inflateInit2_", referenced from:      +[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)ld: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)14(21%IDEActivityLogMessage2@28""_deflate", referenced from:-431060354#41#31#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@132"+[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)-431060354#72#139#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@31""_deflateEnd", referenced from:-431060354#211#34#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@132"+[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)-431060354#245#139#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@34""_deflateInit2_", referenced from:-431060354#384#37#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@132"+[GAICompressionUtil gai_dataByCompressingBytes:length:compressionLevel:mode:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)-431060354#421#139#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@28""_inflate", referenced from:-431060354#560#31#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@118"+[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)-431060354#591#125#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@31""_inflateEnd", referenced from:-431060354#716#34#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@118"+[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)-431060354#750#125#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@34""_inflateInit2_", referenced from:-431060354#875#37#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@118"+[GAICompressionUtil gai_dataByInflatingBytes:length:isRawData:] in libGoogleAnalyticsServices.a(GAICompressionUtil.o)-431060354#912#125#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-431060354#1037#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-431060354#1083#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1634"Ld Build/Products/Debug-iphonesimulator/GA_sample.app/GA_sample normal i386    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator -L/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator -filelist /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/GA_sample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework SystemConfiguration -lAdIdAccess -framework CoreData -lGoogleAnalyticsServices -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/Objects-normal/i386/GA_sample_dependency_info.dat -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.36"0A56D8B6-FAAB-463B-8642-B2F1EA370B82-
+b3A747179-832F-4ECA-AD36-AFBD6F18A61C
+
+CProcessInfoPlistFile /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app/Info.plist /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA_sample-Info.plist
+r0
+
+CProcessPCH /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431060350.449055
+e431060352.573108
+r1
+xProcessPCH
+x/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch.pch
+xGA_sample/GA_sample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA_sample-Prefix.pch
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAI.h
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAILogger.h
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAITracker.h
+d/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA/GAITrackedViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile GA_sample/GA_sample-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler890c737e75b1b941^91b9928075b1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/KentarOu/Desktop/Xcode_Project/8%E6%9C%88/GA_sample/GA_sample/GA_sample-Prefix.pch0000000000000000^3739"ProcessPCH Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/GA_sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/DerivedSources/i386 -I/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/GA_sample.build/Debug-iphonesimulator/GA_sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch.dia -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr/GA_sample-Prefix.pch.d -c /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/GA_sample/GA_sample-Prefix.pch -o /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Intermediates/PrecompiledHeaders/GA_sample-Prefix-btolohytvwhfwpbobjmurfjopyfr36"052EEF8C-DFC9-4407-9428-447CEC537811-
+b3A747179-832F-4ECA-AD36-AFBD6F18A61C
+
+CProcessPCH /Users/KentarOu/Library/Developer/Xcode/DerivedData/GA_sample-dfhedbtigtnazvatmojmgfzicoyl/Index/PrecompiledHeaders/GA_sample-Prefix-armgbogfmamflcekwtinedyszvjx_ast/GA_sample-Prefix.pch.pch GA_sample/GA_sample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/KentarOu/Desktop/Xcode_Project/8月/GA_sample/Build/Products/Debug-iphonesimulator/GA_sample.app
+r0
+
